@@ -1,0 +1,22 @@
+This backup script automates some boring things. 
+
+It mainly depends on 
+- bash
+- shflags (http://code.google.com/p/shflags/)
+- rsnapshot (http://rsnapshot.org/)
+
+Besides it depends on 
+- df
+- dpkg
+- gawk
+- grep
+- sudo
+- udisks
+- ls
+- ln
+- sync
+- rsync
+- logger
+- rm
+- touch
+
